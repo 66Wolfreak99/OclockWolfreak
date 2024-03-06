@@ -4,3 +4,4 @@ Les commandes principales Git
 - gt add .
 - git commit -m "commentaire"
 - git push
+- git log
