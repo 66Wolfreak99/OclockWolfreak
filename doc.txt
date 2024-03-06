@@ -1,0 +1,6 @@
+Les commandes principales Git
+
+- git status
+- gt add .
+- git commit -m "commentaire"
+- git push
